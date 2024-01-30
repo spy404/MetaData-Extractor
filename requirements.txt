@@ -1,0 +1,7 @@
+PyPDF2
+pefile
+Pillow
+hachoir
+openpyxl
+python-docx
+python-pptx
